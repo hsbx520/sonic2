@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const walletAddressInput = document.getElementById('walletAddress');
     const tokenAmountDisplay = document.getElementById('tokenAmount');
 
-    const SGT_PER_SOL = 42000; // 1 SOLANA = 42,000 SGT
+    const SGT_PER_SOL = 12000; // 1 SOLANA = 12,000 SGT
 
     // Custom alert function to match website style
     function customAlert(message) {
